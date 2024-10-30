@@ -1,6 +1,7 @@
 <img width="923" alt="Снимок экрана 2024-10-23 в 18 16 14" src="https://github.com/user-attachments/assets/aed2bf99-3bb7-4c17-9f61-482c631dd13b">
 <img width="1131" alt="Снимок экрана 2024-10-23 в 18 15 35" src="https://github.com/user-attachments/assets/409f8bdc-298b-435f-b0af-e0a2c2dea5eb">
 
+<img width="1087" alt="Снимок экрана 2024-10-30 в 17 59 39" src="https://github.com/user-attachments/assets/e7dc34bb-e69c-486d-9506-c3001ec589eb">
 
 <img width="899" alt="Снимок экрана 2024-10-23 в 19 19 30" src="https://github.com/user-attachments/assets/28e75ea1-2243-4adb-8dbd-6e009a9b6d19">
 <img width="950" alt="Снимок экрана 2024-10-23 в 19 20 53" src="https://github.com/user-attachments/assets/a7214291-a69d-421b-9f78-4e0e14388f76">
